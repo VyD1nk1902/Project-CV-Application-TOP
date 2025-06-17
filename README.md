@@ -1,12 +1,12 @@
-# React + Vite
+# CV Generate App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of TOP projects in my journey of learning ReactJS.
 
-Currently, two official plugins are available:
+In this I have learned a lot about state, props. But I'm planning a second project like this but will have a preview section next to input form for more convinient and intuitive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Build With
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**React:** A JavaScript library for building user interfaces.
+**React Hooks (useState):** For managing component state and handling user input.
+**Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+**HTML & JSX:** For structuring the application components.
