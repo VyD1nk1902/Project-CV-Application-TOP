@@ -6,7 +6,9 @@ In this I have learned a lot about state, props. But I'm planning a second proje
 
 ## Build With
 
-**React:** A JavaScript library for building user interfaces.
-**React Hooks (useState):** For managing component state and handling user input.
-**Tailwind CSS:** A utility-first CSS framework for rapid UI development.
-**HTML & JSX:** For structuring the application components.
+- **React:** A JavaScript library for building user interfaces.
+- **React Hooks (useState):** For managing component state and handling user input.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **HTML & JSX:** For structuring the application components.
+
+---
